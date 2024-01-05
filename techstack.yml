@@ -1,7 +1,8 @@
 repo_name: zaknbur/d3-v4-1
 report_id: 58bc56967c7da16daabfe56f0469d9ca
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:35:45+00:00'
+timestamp: '2024-01-05T08:35:25+00:00'
 requested_by: zaknbur
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/d3-v4-1
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -22,6 +24,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/zaknbur/d3-v4-1/blob/master/barchart.html
   detection_source: barchart.html
   last_updated_by: Micky Allen
   last_updated_on: 2019-06-19 21:48:34.000000000 Z
